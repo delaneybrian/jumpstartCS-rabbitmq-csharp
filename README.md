@@ -1,1 +1,1 @@
-# jumpstartCS-rabbitmq-c-
+# jumpstartCS-rabbitmq-csharp
